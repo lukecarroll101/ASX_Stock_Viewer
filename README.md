@@ -5,7 +5,7 @@ Welcome to ASX Stock Viewer!
 ## Description
 This project is an ongoing endeavor where I am gradually building and refining various features. It serves as a dynamic learning platform, allowing me to acquire new coding skills while implementing best practices in software development. The primary focus is not only on functionality but also on optimizing code for efficiency.
 
-![App](https://github.com/user-attachments/assets/4b740a12-6d81-4795-ac04-ca03c4bc1ff2)
+![App](https://github.com/user-attachments/assets/3f748f22-3e52-4d1f-85e8-dbd2381799fe)
 
 
 ## Project Progress
